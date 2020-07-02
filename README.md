@@ -3,9 +3,9 @@
   <img src=".github/bethehero.svg" width="350" title="logo">
 </p>
 <hr>
-<img src=".github/bethehero.png" >
+<img src=".github/bethehero.png" title="banner">
 <h2>Semana Omnistack 11</h2>
-<p><b>Projeto desenvolvido no bootcamp da Rocketseat.<b></p>
+<p><b>Projeto desenvolvido no bootcamp da Rocketseat.</b></p>
 <h3>#Tecnologias</h3>
 <ul>
   <li><a href='https://nodejs.org/en/'>Node.Js</a></li>
